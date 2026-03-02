@@ -5,13 +5,18 @@ title = 'Teaching'
 layout = 'single'
 +++
 ## Lectures and Practical Courses
+Practical course: Systems Programming. Summer 2026
+
 Practical course: Systems Programming. Winter 2026
 
 ## Advised Theses
 
-### Ongoing
+### 2025
 Analysis and Verification of Semantic Mistranslation Errors in Emulators
 Bachelor's Thesis.
+
+Fine-grained Evaluation and Validation of Emulator Errors
+Guided Research.
 
 ### 2024
 Execution State Comparison for Emulators using Symbolic Execution
