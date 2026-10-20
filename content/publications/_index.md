@@ -12,8 +12,6 @@ ASPLOS '27 (to appear)
 **Theofilos Augoustis**, Sebastian Reimers, Christian Krinitsin, Redha Gouicem, Dennis Sprokholt,
 Pramod Bhatotia.
 
-[Pre-print](/publications/focaccia-asplos27.pdf)
-
 ## Arancini: A Hybrid Binary Translator for Weak Memory Model Architectures
 
 ASPLOS '26
